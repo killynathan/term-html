@@ -1,4 +1,5 @@
 # How to use
+`npm install`  
 `node index.js index.html`  
 (only supports inline css properly formatted with a semicolon)
 
