@@ -28,3 +28,4 @@ css: text-align
 ## Some ways to improve
 - Support better nesting of elements. For example, supporting raw text in more elements.
 - better css support
+- Better Error handling
