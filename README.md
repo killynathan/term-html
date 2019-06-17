@@ -8,20 +8,20 @@
 `index.js`: entrance point
 
 
-##Supported top level elements
-###p
+## Supported top level elements
+### p
 renders text  
 css: margin-top, margin-left, margin-bottom, color
 
-###table
+### table
 renders a table of minimum width.  
 css: width, margin-top, margin-bottom
 
-###td in table
+### td in table
 by default renders left aligned  
 css: text-align
 
-###th in table
+### th in table
 by default renders centered  
 css: text-align
 
